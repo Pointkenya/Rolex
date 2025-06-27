@@ -1,0 +1,6 @@
+cd roleapp/client
+git init
+git remote add origin https://github.com/Pointkenya/roleapp-frontend.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
